@@ -1,0 +1,36 @@
+{
+  "name": "api-nectara",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test node --experimental-vm-modules node_modules/jest/bin/jest.js --runInBand --no-cache --detectOpenHandles"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/API-Nectara/API-Nectara.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/API-Nectara/API-Nectara/issues"
+  },
+  "homepage": "https://github.com/API-Nectara/API-Nectara#readme",
+  "devDependencies": {
+    "cross-env": "^10.0.0",
+    "jest": "^30.1.2",
+    "supertest": "^7.1.4"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "mongodb": "5.5",
+    "mongoose": "^8.18.1",
+    "mysql2": "^3.14.3",
+    "sequelize": "^6.37.7"
+  }
+}

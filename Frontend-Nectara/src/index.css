@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+body, p{
+  font-family: Georgia, serif;
+}
+
+.butterfly-heading {
+  background:  orange;
+  background-size: 20px 20px;
+  background-repeat: repeat;
+  -webkit-background-clip: text;
+  color: transparent;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+  font-family: Georgia, serif;
+}
+
+/* Botón con forma de ala de mariposa */
+.butterfly-button {
+  background-color: #e66035;
+  color: white;
+  padding: 12px 28px;
+  border: none;
+  border-radius: 35px 12px 35px 12px;
+  box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease-in-out;
+  font-family: Georgia, serif;
+}
+
+.butterfly-button:hover {
+  background-color: #e7420c;
+  transform: scale(1.05) rotate(-0.5deg);
+}
+
+/* Variante outline */
+.butterfly-button-outline {
+  background-color: transparent;
+  color: #eb391d;
+  border: 2px solid #e66035;
+  padding: 12px 28px;
+  border-radius: 12px 35px 12px 35px;
+  transition: all 0.3s ease-in-out;
+  font-family: Georgia, serif;
+}
+
+.butterfly-button-outline:hover {
+  background-color: #e66035;
+  color: white;
+  transform: scale(1.05) rotate(0.5deg);
+}
+
+.butterfly-heading {
+  font-family: Georgia, serif;
+  font-size: 4rem;
+  background-image: orange;
+  background-size: 20px 20px;
+  background-position: 0 0, 10px 10px, 5px 5px;
+  background-repeat: repeat;
+  background-color: #c61e0f;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  text-align: center;
+}

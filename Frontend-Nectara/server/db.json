@@ -1,0 +1,264 @@
+{
+  "butterflies": [
+    {
+      "id": "1",
+      "common_name": "Mariposa Reina Africana",
+      "scientific_name": "Danaus chrysippus",
+      "location": "África subsahariana",
+      "description": "Color naranja intenso con alas negras y puntos blancos. Muy común en todo el continente.",
+      "habitat": "Sabana y zonas abiertas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Danaus_chrysippus_Female_by_kadavoor.jpg/1280px-Danaus_chrysippus_Female_by_kadavoor.jpg",
+      "migratory": true
+    },
+    {
+      "id": "2",
+      "common_name": "Mariposa Zuleika",
+      "scientific_name": "Amauris zuleika",
+      "location": "África oriental",
+      "description": "Imita a la Reina Africana como estrategia de defensa. Vuela lentamente cerca de arbustos",
+      "habitat": "Bosques húmedos y claros",
+      "image": "https://static.inaturalist.org/photos/32533266/large.jpeg",
+      "migratory": false,
+      "is_migratory": false
+    },
+    {
+      "id": "3",
+      "common_name": "Mariposa Cola de Golondrina Verde",
+      "scientific_name": "Papilio nireus",
+      "location": "África occidental",
+      "description": "Color negro con franjas verdes. Tiene colas similares a las de una golondrina.",
+      "habitat": "Bosques y jardines",
+      "image": "https://img.freepik.com/fotos-premium/deslumbrante-mariposa-cola-golondrina-esmeralda-descansa-alas-abiertas-hojas-hierba_501731-9148.jpg",
+      "migratory": false
+    },
+    {
+      "id": "4",
+      "common_name": "Mariposa Mocker",
+      "scientific_name": "Hypolimnas misippus",
+      "location": "África, Asia y Australia",
+      "description": "Imita a mariposas tóxicas como defensa. Hembras presentan gran variación de colores.",
+      "habitat": "Áreas abiertas y rurales",
+      "image": "https://i.pinimg.com/736x/96/ee/ed/96eeed3c4a50580810e8258e04228143.jpg",
+      "migratory": true
+    },
+    {
+      "id": "5",
+      "common_name": "Mariposa Diadema",
+      "scientific_name": "Hypolimnas salmacis",
+      "location": "África tropical",
+      "description": "Machos azul metálico con alas negras. Muy territorial.",
+      "habitat": "Bosques y márgenes",
+      "image": "https://i.pinimg.com/originals/3b/0c/de/3b0cde616b2bb8b819f846af0ae85d87.jpg",
+      "migratory": false
+    },
+    {
+      "id": "6",
+      "common_name": "Mariposa Falcón Africana",
+      "scientific_name": "Euphaedra phaethusa",
+      "location": "África occidental y central",
+      "description": "Alas de color verde brillante con manchas negras. Habita en selvas húmedas.",
+      "habitat": "Selvas tropicales",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Malachite_%28Siproeta_stelenes%29_dorsal_%281%29.jpg/500px-Malachite_%28Siproeta_stelenes%29_dorsal_%281%29.jpg",
+      "migratory": false
+    },
+    {
+      "id": "7",
+      "common_name": "Mariposa Espejo Africana",
+      "scientific_name": "Acraea encedon",
+      "location": "África tropical",
+      "description": "Colores anaranjados con negro, imita a especies tóxicas para evitar depredadores.",
+      "habitat": "Zonas abiertas y cálidas",
+      "image": "https://media.istockphoto.com/id/116566192/es/foto/mariposa-monarca-danaus-plexippus.jpg?s=170667a&w=0&k=20&c=Yz1hKIK93dWAOGqeWtyKvvi-ZGXGpWQUFwROxtFLH14=",
+      "migratory": false
+    },
+    {
+      "id": "8",
+      "common_name": "Mariposa Pantera",
+      "scientific_name": "Junonia terea",
+      "location": "África subsahariana",
+      "description": "Tiene manchas oculares llamativas en sus alas para ahuyentar depredadores.",
+      "habitat": "Sabanas y praderas",
+      "image": "https://w0.peakpx.com/wallpaper/222/717/HD-wallpaper-mariposa-ojos-en-las-alas-exelente-foto-delicada-exelente-foto-mariposa-delicada-ojos-en-las-alas.jpg",
+      "migratory": true
+    },
+    {
+      "id": "9",
+      "common_name": "Mariposa Pavo Real Africana",
+      "scientific_name": "Precis octavia",
+      "location": "África oriental y meridional",
+      "description": "Muestra variaciones de color según la estación. Azul metálico en verano.",
+      "habitat": "Campos y zonas rocosas",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gaudy_Commodore_winter_form.JPG/500px-Gaudy_Commodore_winter_form.JPG",
+      "migratory": true,
+      "is_migratory": true
+    },
+    {
+      "id": "10",
+      "common_name": "Mariposa Charaxes Jasius Africana",
+      "scientific_name": "Charaxes jasius",
+      "location": "África norte y mediterránea",
+      "description": "Una de las mariposas más grandes de África. Alas anaranjadas con bordes negros.",
+      "habitat": "Bosques mediterráneos",
+      "image": "https://res.cloudinary.com/dauzwfc8z/image/upload/v1753869972/mariposas-africa/pzen8gfnv8szfd7jqww6.webp",
+      "migratory": false,
+      "is_migratory": false
+    },
+    {
+      "id": "11",
+      "common_name": "Mariposa de Cristal Africana",
+      "scientific_name": "Cymothoe sangaris",
+      "location": "Congo, Gabón, Camerún",
+      "description": "Roja intensa y translúcida. Habita selvas densas del África central.",
+      "habitat": "Selvas húmedas y profundas",
+      "image": "https://s3.animalia.bio/animals/photos/full/original/greta-oto-glasswing-butterfly-6917391571.webp",
+      "migratory": false,
+      "is_migratory": false
+    },
+    {
+      "id": "12",
+      "common_name": "Mariposa Tigre Africana",
+      "scientific_name": "Danaus petilia",
+      "location": "África sur y oriental",
+      "description": "Muy parecida a la Reina Africana, pero con alas más pálidas. Polinizadora de diversas plantas.",
+      "habitat": "Praderas floridas",
+      "image": "https://static.inaturalist.org/photos/215552029/large.jpg",
+      "migratory": true,
+      "is_migratory": true
+    },
+    {
+      "id": "13",
+      "common_name": "Mariposa Azul del Cabo",
+      "scientific_name": "Lepidochrysops bacchus",
+      "location": "Sudáfrica",
+      "description": "Pequeña mariposa azul con patrones oscuros. Endémica de áreas montañosas.",
+      "habitat": "Zonas montañosas",
+      "image": "https://www.junglexperiences.com/wp-content/uploads/2024/05/Conservacion-de-las-Mariposas-Azules.png",
+      "migratory": false,
+      "is_migratory": false
+    },
+    {
+      "id": "14",
+      "common_name": "Mariposa Monarca Africana",
+      "scientific_name": "Danaus dorippus",
+      "location": "África oriental",
+      "description": "Subespecie africana de la Monarca. Carece de venas negras gruesas en las alas.",
+      "habitat": "Praderas y campos abiertos",
+      "image": "https://cumbrepuebloscop20.org/wp-content/uploads/2023/06/colorful-nature-orange-monarch-butterfly-with-floral-background.jpg",
+      "migratory": true,
+      "is_migratory": true
+    },
+    {
+      "id": "15",
+      "common_name": "Mariposa Árabe Africana",
+      "scientific_name": "Colotis evagore",
+      "location": "Norte de África y península arábiga",
+      "description": "Pequeña mariposa blanca con toques rosados. Habita zonas áridas.",
+      "habitat": "Zonas desérticas",
+      "image": "https://wallpapers.com/images/hd/white-butterfly-2216-x-1477-w641n8nekx3slnpl.jpg",
+      "migratory": false,
+      "is_migratory": false
+    },
+    {
+      "id": "16",
+      "common_name": "Mariposa Aceitera Africana",
+      "scientific_name": "Bicyclus anynana",
+      "location": "África central y sur",
+      "description": "Con manchas oculares marrón claro. Se adapta a diferentes estaciones.",
+      "habitat": "Áreas húmedas con hierba alta",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Lasiommata_megera_LC0066.jpg",
+      "migratory": false,
+      "is_migratory": false
+    },
+    {
+      "id": "17",
+      "common_name": "Mariposa Rayada del Bosque",
+      "scientific_name": "Bebearia tentyris",
+      "location": "Bosques tropicales del oeste africano",
+      "description": "Marrón con rayas negras y bordes naranjas. Vuela bajo en áreas húmedas.",
+      "habitat": "Bosques lluviosos",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Dryadula-phaetusa-butterfly.jpg",
+      "migratory": false,
+      "is_migratory": false
+    },
+    {
+      "id": "18",
+      "common_name": "Mariposa Naranja del Desierto",
+      "scientific_name": "Colotis amata",
+      "location": "África del Norte y zonas semiáridas",
+      "description": "Color naranja intenso. Se alimenta de flores resistentes a la sequía.",
+      "habitat": "Zonas semiáridas",
+      "image": "https://pictureinsect.com/wiki-image/1080/153938942259888133.jpeg",
+      "migratory": true,
+      "is_migratory": true
+    },
+    {
+      "id": "19",
+      "common_name": "Mariposa Bosque de Marfil",
+      "scientific_name": "Euphaedra medon",
+      "location": "Costa de Marfil, Ghana",
+      "description": "Colores brillantes, muy activa durante el día en bosques lluviosos.",
+      "habitat": "Bosques frondosos",
+      "image": "https://images.unsplash.com/photo-1605999360145-079adb1cf613?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Ym9zcXVlJTIwbGx1dmlvc28lMjBkZSUyMG1hcmlwb3Nhc3xlbnwwfHwwfHx8MA%3D%3D",
+      "migratory": false,
+      "is_migratory": false
+    },
+    {
+      "id": "9f24",
+      "common_name": "Mariposa Ala de Fuego Africana",
+      "scientific_name": "Acraea egina",
+      "location": "África central y occidental",
+      "description": "Alas rojas o anaranjadas con manchas negras. Activa en el día.",
+      "habitat": "Áreas soleadas",
+      "image": "https://www.losviajeros.com/foto/user/10002/mariposa_2457.jpg",
+      "is_migratory": false,
+      "migratory": false
+    },
+    {
+      "id": "8a0b",
+      "common_name": "Mariposa Sol de Medianoche",
+      "scientific_name": "Heliophorus nocturnus",
+      "location": "África central",
+      "description": "Mariposa de tonos azul oscuro con destellos plateados. Activa durante el crepúsculo.",
+      "habitat": "Bosques húmedos y claros en zonas montañosas",
+      "image": "https://jardin.inecol.mx/images/MARIPOSA_MES/corazon_r.jpg",
+      "is_migratory": false,
+      "migratory": false
+    },
+    {
+      "id": "c008",
+      "common_name": "Mariposa Espejismo",
+      "scientific_name": "Mirajus africana",
+      "location": "Sabana del África oriental",
+      "description": "Alas translúcidas con reflejos dorados que cambian según la luz. Se camufla perfectamente entre las hojas secas.",
+      "habitat": "Praderas abiertas y bordes de bosque",
+      "image": "https://phantom-elmundo.uecdn.es/8fbc79fa66c0a7d89c2ed9fa32eb145a/resize/828/f/webp/assets/multimedia/imagenes/2021/11/26/16379471524047.jpg",
+      "is_migratory": true,
+      "migratory": true
+    },
+    {
+      "id": "e183",
+      "commonName": "fghsgf",
+      "scientificName": "fguhjxghj",
+      "location": "gfuiety",
+      "description": "wrtg",
+      "habitat": "tyuetyu",
+      "image": "https://res.cloudinary.com/dauzwfc8z/image/upload/v1753866294/mariposas-africa/kssqhgbxrdrzevj7uzis.jpg",
+      "isMigratory": true,
+      "migratory": false,
+      "is_migratory": false
+    },
+    {
+      "id": "ee36",
+      "commonName": "La Monarca Africana",
+      "scientificName": "Danaus chrysippus",
+      "location": "África subsahariana",
+      "description": "Naranja intenso en las alas, más claro que el de la monarca americana.\nBordes negros con puntos blancos en las alas delanteras.\nAlas traseras con zona central más clara y márgenes oscuros.",
+      "habitat": "Africa",
+      "image": "https://res.cloudinary.com/dauzwfc8z/image/upload/v1753952826/mariposas-africa/sslbelxftaxjkg3v3pyq.jpg",
+      "isMigratory": true,
+      "common_name": "Monarca Africana",
+      "migratory": false,
+      "is_migratory": false
+    }
+  ]
+}
