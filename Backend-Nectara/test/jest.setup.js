@@ -1,10 +1,19 @@
-import db_connection from "../database/db_connection.js";
+import { connectDB, disconnectDB } from "../database/db_connection.js";
+import ButterflyModel from "../models/ButterflyModel.js";
 
 beforeAll(async () => {
-  await db_connection.authenticate();
-  await db_connection.sync({ force: true });
+  await connectDB();
+  // Limpia la colección antes de empezar los tests
+  await ButterflyModel.deleteMany({});
+});
+
+// Limpia la colección después de cada test
+afterEach(async () => {
+  await ButterflyModel.deleteMany({});
 });
 
 afterAll(async () => {
-  await db_connection.close();
+  // Limpia la colección al final
+  await ButterflyModel.deleteMany({});
+  await disconnectDB();
 });
