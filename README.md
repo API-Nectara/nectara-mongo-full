@@ -124,6 +124,58 @@ La aplicación se abrirá en tu navegador, generalmente en http://localhost:5173
 ## Configuración de MongoDB Atlas (Ejemplo)
 Aquí puedes ver un ejemplo de cómo debería quedar tu configuración en MongoDB Atlas para obtener la URI de conexión.
 
+## Tests Automatizados ✅ 
+
+El backend de Nectara cuenta con una suite de tests automatizados implementados con Jest y Supertest para garantizar la calidad y el correcto funcionamiento de la API.
+
+Ejecución de Tests
+
+Para correr todos los tests del proyecto:
+
+```bash
+cd Backend-Nectara
+npm test
+```
+## Cobertura de Tests
+
+Actualmente se cubren las operaciones CRUD principales de la API de mariposas:
+
+# GET /butterflies
+
+✔️ Devuelve todas las mariposas (status 200, formato JSON).
+
+# GET /butterflies/:id
+
+✔️ Devuelve una mariposa existente (status 200).
+
+✔️ Retorna error si el formato del ID es inválido (status 400).
+
+✔️ Retorna error si la mariposa no existe (status 404).
+
+# DELETE /butterflies/:id
+
+✔️ Elimina una mariposa existente (status 200).
+
+✔️ Confirma la eliminación con un mensaje en JSON.
+
+# POST /butterflies
+
+✔️ Crea una mariposa cuando los datos son válidos (status 201).
+
+✔️ Retorna errores de validación con un cuerpo inválido (status 400).
+
+# PUT /butterflies/:id
+
+✔️ Actualiza una mariposa cuando los datos son válidos (status 200).
+
+✔️ Retorna errores de validación si el cuerpo es inválido (status 400).
+
+✔️ Retorna error si el ID no existe (status 404).
+
+# Resultados de la Suite
+![MongoDB-Test](Frontend-Nectara/public/images-readme/Test.png)
+
+Ejemplo de salida en consola al ejecutar npm test:
 1.  **Vista del Clúster y Botón "Connect"**
 ![MongoDB](Frontend-Nectara/public/images-readme/cluster.png)
 
