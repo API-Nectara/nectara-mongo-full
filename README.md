@@ -110,9 +110,6 @@ Aquí puedes ver un ejemplo de cómo debería quedar tu configuración en MongoD
 1.  **Vista del Clúster y Botón "Connect"**
     *(Inserta aquí tu captura de pantalla de la vista principal del clúster)*
 
-2.  **Configuración de Acceso a la Red**
-    *(Inserta aquí tu captura de pantalla de la sección "Network Access")*
-
 ---
 
 ## Vistas de la Aplicación
@@ -120,7 +117,7 @@ Un vistazo a cómo luce Nectara en acción.
 
 #### Página de Inicio
 La primera impresión de nuestra aplicación, con una animación 3D interactiva.
-![Página de inicio de Nectara](https://i.imgur.com/8a1f8c1.jpeg)
+![Página de inicio de Nectara](Frontend-Nectara/public/images-readme/Home-Page.png)
 
 #### Galería de Mariposas
 *(Inserta aquí tu captura de pantalla de la galería)*
