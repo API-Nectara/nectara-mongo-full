@@ -33,6 +33,13 @@ Nectara es una aplicación web completa que te permite explorar el fascinante mu
 * **Mongoose**: Librería para modelar datos de MongoDB.
 * **Cors**: Middleware para habilitar CORS (Cross-Origin Resource Sharing).
 * **Dotenv**: Módulo para cargar variables de entorno.
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+  <img src="https://img.shields.io/badge/CORS-000000?style=for-the-badge&logo=cors&logoColor=white" alt="CORS">
+</p>
 
 ### Frontend
 * **React**: Librería para construir interfaces de usuario.
