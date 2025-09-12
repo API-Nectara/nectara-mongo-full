@@ -22,7 +22,6 @@ Nectara es una aplicación web completa que te permite explorar el fascinante mu
   - [Rutas de la API](#rutas-de-la-api)
   - [Funcionalidades Principales](#funcionalidades-principales)
   - [Agradecimientos](#agradecimientos)
-
 ---
 
 ## Tecnologías Utilizadas
@@ -57,31 +56,32 @@ Primero, clona el repositorio en tu máquina local.
 ```bash
 git clone [https://github.com/API-Nectara/API-Nectara.git](https://github.com/API-Nectara/API-Nectara.git)
 cd api-nectara-mongo
+```
 
 ### ⚙️ Configuración del Backend
 Sigue estos pasos desde la raíz del proyecto.
 
 Navega a la carpeta del backend:
 
-Bash
-
+```bash
 cd Backend-Nectara
 Instala las dependencias:
-
-Bash
-
+```
+```bash
 npm install
+```
 Configura las variables de entorno:
 Crea un archivo .env en la carpeta Backend-Nectara y añade tus credenciales:
-
+```bash
 MONGODB_URI=<Tu URI de MongoDB>
 DB_NAME=<El nombre de tu base de datos>
 PORT=8080
+```
 Inicia el servidor:
 
-Bash
-
+```bash
 node app.js
+```
 El servidor se iniciará en http://localhost:8080.
 
 🎨 Configuración del Frontend
@@ -89,23 +89,21 @@ Abre una nueva terminal y sigue estos pasos desde la raíz del proyecto (api-nec
 
 Navega a la carpeta del frontend:
 
-Bash
-
+```bash
 cd Frontend-Nectara
+```
 Instala las dependencias:
 
-Bash
-
+```bash
 npm install
+```
 Inicia la aplicación cliente:
 
-Bash
-
+```bash
 npm run dev
+```
 La aplicación se abrirá en tu navegador, generalmente en http://localhost:5173.
 
-
-```markdown
 ## Configuración de MongoDB Atlas (Ejemplo)
 Aquí puedes ver un ejemplo de cómo debería quedar tu configuración en MongoDB Atlas para obtener la URI de conexión.
 
@@ -135,17 +133,17 @@ La primera impresión de nuestra aplicación, con una animación 3D interactiva.
 Este proyecto fue posible gracias a la colaboración de dos equipos especializados.
 
 ### Equipo de Frontend
-* Aday
-* Angie
-* Sofia
-* Ana
+* Aday Álvarez
+* Anngy Pereira
+* Sofia Reyes
+* Ana Muruzabal
 
 ### Equipo de Backend
-* Paloma
-* Gema
-* Maryori
-* Ana
-* Camila
+* Paloma Gómez
+* Gema Yébenez 
+* Maryori Cruz
+* Ana Muruzabal
+* Camila Arenas
 
 ---
 
@@ -180,10 +178,4 @@ El backend expone las siguientes rutas para gestionar las mariposas:
 * **Galería de Mariposas**: Explora todas las mariposas disponibles.
 * **Detalle de Mariposa**: Visualiza la información detallada de una especie.
 * **Crear/Editar Mariposa**: Añade o modifica especies en la base de datos.
-* **Sobre Nosotros y Contacto**: Páginas informativas sobre el equipo y cómo contactarnos.
-
----
-
-## Agradecimientos
-
-Agradecemos a todos los que han contribuido a este proyecto. ¡Esperamos que disfrutes de Nectara! 🦋
+* **Sobre Nosotros y Contacto**: Páginas informativas sobre el equipo y cómo contactar al equipo de FrontEnd.
