@@ -108,7 +108,7 @@ La aplicación se abrirá en tu navegador, generalmente en http://localhost:5173
 Aquí puedes ver un ejemplo de cómo debería quedar tu configuración en MongoDB Atlas para obtener la URI de conexión.
 
 1.  **Vista del Clúster y Botón "Connect"**
-    *(Inserta aquí tu captura de pantalla de la vista principal del clúster)*
+![MongoDB](Frontend-Nectara/public/images-readme/cluster.png)
 
 ---
 
@@ -120,11 +120,10 @@ La primera impresión de nuestra aplicación, con una animación 3D interactiva.
 ![Página de inicio de Nectara](Frontend-Nectara/public/images-readme/Home-Page.png)
 
 #### Galería de Mariposas
-*(Inserta aquí tu captura de pantalla de la galería)*
+![Galería de Mariposas](Frontend-Nectara/public/images-readme/Gallery.png)
 
 #### Formulario de Creación
-*(Inserta aquí tu captura de pantalla del formulario de creación/edición)*
-
+![Formulario de Creación](Frontend-Nectara/public/images-readme/Form.png)
 ---
 ## Créditos y Equipo
 Este proyecto fue posible gracias a la colaboración de dos equipos especializados.
