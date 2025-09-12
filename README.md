@@ -140,11 +140,11 @@ npm test
 
 Actualmente se cubren las operaciones CRUD principales de la API de mariposas:
 
-# GET /butterflies
+### GET /butterflies
 
 ✔️ Devuelve todas las mariposas (status 200, formato JSON).
 
-# GET /butterflies/:id
+#### GET /butterflies/:id
 
 ✔️ Devuelve una mariposa existente (status 200).
 
@@ -152,19 +152,19 @@ Actualmente se cubren las operaciones CRUD principales de la API de mariposas:
 
 ✔️ Retorna error si la mariposa no existe (status 404).
 
-# DELETE /butterflies/:id
+### DELETE /butterflies/:id
 
 ✔️ Elimina una mariposa existente (status 200).
 
 ✔️ Confirma la eliminación con un mensaje en JSON.
 
-# POST /butterflies
+### POST /butterflies
 
 ✔️ Crea una mariposa cuando los datos son válidos (status 201).
 
 ✔️ Retorna errores de validación con un cuerpo inválido (status 400).
 
-# PUT /butterflies/:id
+### PUT /butterflies/:id
 
 ✔️ Actualiza una mariposa cuando los datos son válidos (status 200).
 
@@ -172,7 +172,7 @@ Actualmente se cubren las operaciones CRUD principales de la API de mariposas:
 
 ✔️ Retorna error si el ID no existe (status 404).
 
-# Resultados de la Suite
+### Resultados de la Suite
 ![MongoDB-Test](Frontend-Nectara/public/images-readme/Test.png)
 
 Ejemplo de salida en consola al ejecutar npm test:
