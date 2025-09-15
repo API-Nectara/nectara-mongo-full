@@ -1,1 +1,0 @@
-# api-nectara-mongo
